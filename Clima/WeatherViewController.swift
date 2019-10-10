@@ -2,9 +2,7 @@
 //  ViewController.swift
 //  WeatherApp
 //
-//  Created by Angela Yu on 23/08/2015.
-//  Copyright (c) 2015 London App Brewery. All rights reserved.
-//
+//  Created by Yu Zhang on 04/08/2019.
 
 import UIKit
 import CoreLocation
